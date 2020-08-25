@@ -22,7 +22,6 @@ void printmyname()
 	cout << "**     --------------------------------------------  **" << endl ;
       	cout << "**     |    @Author: Aanjishnu Bhattacharyya      |  **" << endl ;
 	cout << "**     | @version: 1.0.0(Seriosly what did think) |  **" << endl ;
-	cout << "**     |   @License: DO WHAT THE FUCK!! license   |  **" << endl ;
 	cout << "**     --------------------------------------------  **" << endl ;
 	cout << "**                                                   **" << endl ;
 	cout << "**************************THNX*************************" << endl << endl << endl ;
